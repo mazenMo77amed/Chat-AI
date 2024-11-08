@@ -26,7 +26,7 @@ Chat-AI allows users to interact with an AI chatbot in a simple and user-friendl
 
 ## Demo
 
-You can try out the live demo of the Chat-AI here: https://mazenmo77amed.github.io/Chat-AI/
+ https://mazenmo77amed.github.io/Chat-AI/
 
 
 
